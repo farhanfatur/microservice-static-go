@@ -3,7 +3,7 @@
 So this is just example build microservice with static data, i hope you this repo will help you learning golang
 
 ## installation
-Get Repo
+clone this repository
 ```
 git clone https://github.com/farhanfatur/microservice-static-go.git
 ```
