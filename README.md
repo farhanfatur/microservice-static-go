@@ -1,6 +1,6 @@
 # microservice-static-go
 
-So this is just example build microservice with static data, i hope you this repo will help you learning golang
+So this is just example build microservice with static data, i hope this repo will help you learning golang
 
 ## installation
 ### 1. clone this repository
